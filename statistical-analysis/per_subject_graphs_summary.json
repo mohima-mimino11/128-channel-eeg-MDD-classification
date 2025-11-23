@@ -1,0 +1,10 @@
+{
+  "n_subjects": 51,
+  "n_files_scanned": 51,
+  "labels_present": [
+    0
+  ],
+  "density_keep": 0.2,
+  "thresh_method": "proportional",
+  "generated_time": 1763929032.4168813
+}
